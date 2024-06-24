@@ -17,9 +17,14 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+**Ex-Founder with experience across data science, molecular biology, research, strategy, and product development.**
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm deeply passionate about leveraging technological advances to create products that benefit society. I care about the human experience: health, education, our relationships with each other, and our relationship to the environment. I'm interested in how these areas can be improved through technology, and I like the process of employing data science and AI to achieve this. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm also passionate about business, innovation, and entrepreneurship. I've founded one company, and been on the founding team of two others so far. Growing up I thought technology was the hardest part of building a successful business, and I'm ashamed to say I held some disdain for non-technical people. In my first startup, I quickly realised that understanding the customer - who you're solving the problem for - is the most important part, and all functions of a business: marketing, sales, product, people, and technology, should be aligned to this.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+One of the most important things in my life is objective truth, and that is what drove me into data science. To me, being a data scientist is a never ending pursuit of truth, an endless desire to make sense of the world, and to make the best decision possible with the information available. 
+
+In terms of pure technological interest, I love big data and all the methods for extracting value from it. I've always been interested in a wide range of topics, and have been fortunate enough so far in my career to satiate this interest by taking on a variety of roles across biotechnology, data science, machine learning, and entrepreneurship. See my bio for more details on my education and experience. 
+
+I'm always willing to chat and exchange ideas, so please feel free to reach out if you'd like to connect.
