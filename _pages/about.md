@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: _You make your own luck_
+subtitle:
 
 profile:
   align: right
