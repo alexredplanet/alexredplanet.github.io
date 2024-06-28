@@ -48,6 +48,30 @@
       "highlights": ["Built a state of the art breed prediction model over 100 breeds.",
                     "Developed a multi-class classification model to predict dog emotion.",
                     "Models productionised via Google Cloud Platform via a serverless approach."]
+    },
+    {
+      "name": "Portal",
+      "position": "Head of Artificial Intelligence",
+      "startDate": "2023-10-03",
+      "endDate": "2024-04-01",
+      "summary": "Portal was a startup leveraging AI agents to orchestrate brand strategy and create automated marketing campaigns. I led the integration of state-of-the-art AI research into Portal’s AI agent management platform. My role focused on creating conversational agents for domain-specific tasks through a combination of fine-tuning and retrieval augmented generation on large language models (LLMs).",
+      "highlights": ["Developed an approach for keeping a conversational AI agent (LLM) on rails during a conversation based on information theory. The method ensured that at every conversational turn the agent asked the most relevant question to the customer.",
+                    "Took ownership over a whitelisted model training pipeline provided by Google, building custom evaluation pipelines for these models in Vertex AI using Kubeflow.",
+                    "Introduced a product-centric approach to Portal’s software development process to reprioritise feature development based on user experience.",
+                    "The final product Portal worked on was savely.com.au, an AI-powered approach to finding the cheapest energy provider in Australia tailored to your usage. Portal's CEO continued to bootstrap savely after Portal shut down."
+                  ]
+    },
+    {
+      "name": "RewiredBio",
+      "position": "Founder and CEO",
+      "startDate": "2022-04-01",
+      "endDate": "2023-11-01",
+      "summary": "RewiredBio was focused on discovering safer, more effective therapeutics by modelling drug targets as they appear in their natural cellular environment through a combination of AI and molecular biology.",
+      "highlights": ["Raised a pre-seed round in 2022 from one of Australia’s prominent venture capital firms.",
+                    "Responsible for overall business and financial strategy, hiring, and leading a team of data scientists to develop proprietary software that leveraged deep graph learning, transfer learning, and natural language processing.",
+                    "Engaged with senior stakeholders from large pharmaceutical companies such as Pfizer and Astrazeneca, and negotiated partnerships with biology equipment suppliers.",
+                    "Lead work in machine learning that was deemed patentable by our IP lawyers, however we lacked the funds to proceed to a filing."
+                  ]
     }
   ],
   "volunteer": [
@@ -63,15 +87,40 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "The University of Sydney",
+      "location": "Sydney, Australia",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "area": "Data Science",
+      "studyType": "Master of Engineering",
+      "startDate": "2021-03-01",
+      "endDate": "2022-06-01",
+      "grade": "High Distinction",
+      "courses": ["Data structures and algorithms, database design, statistics, machine learning and data mining, visual analytics, computational statistics, advanced machine learning, natural language processing, and complex systems."],
+      "thesis": "Characterising sparse neural networks in the context of noisy labels with the trustworthy machine learning group: https://www.tmllab.ai/."
+    },
+    {
+      "institution": "UNSW",
+      "location": "Sydney, Australia",
+      "url": "https://www.uzh.ch/",
+      "area": "Biotechnology and Genetics",
+      "studyType": "Bachelor of Advanced Science",
+      "startDate": "2015-03-01",
+      "endDate": "2019-11-01",
+      "grade": "1st Class Honours",
+      "thesis": "The Development of a Novel Single Molecule DNA Sequencer, 2019. Spun out to form Swan Genomics in April 2023."
+    },
+    {
+      "institution": "The Weizmann Institute of Science",
+      "location": "Rehovot, Israel",
+      "url": "https://www.uzh.ch/",
+      "area": "Computational Biology",
+      "studyType": "Master of Science",
+      "startDate": "2020-10-01",
+      "endDate": "2021-02-01",
+      "grade": "Withdrew from program",
+      "summary": ["Awarded a full scholarship, and the Ekard Research School of Biological Science and the Lorry I. Lokey Research School of Biochemical Science Excellence Prize.",
+      "Withdrew from the program as I placed too much importance on the courses and degree title...I felt that I wasn't going to learn enough in a computational biology masters that could open doors in the broader data science and AI industry, so I left to pursue a program at Sydney University focused on that."
+    ]
     }
   ],
   "awards": [
