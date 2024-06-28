@@ -1,12 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Alexander Mars",
+    "email": "admars.96@gmail.com",
+    "website": "https://alexredplanet.github.io",
+    "summary": "Founder with experience across data science, machine learning, molecular biology, research, strategy, and product development. Aiming to leverage artificial intelligence to create products that help society.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,25 +21,44 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Swan Genomics",
+      "position": "Co-inventor and Contract Software Engineer",
+      "url": "https://www.dogbase.co/",
+      "startDate": "2024-04-01",
+      "endDate": "Present",
+      "summary": "Swan Genomics is developing a novel kind of single molecule DNA sequencing technology. My bachelor's thesis in 2019 initiated the project, with designs from my thesis still employed in the core technology. Currently, I am helping to bridge the gap between the software team and experimental biology team by developing production-ready data processing pipelines.",
+      "highlights": ["Spun out of UNSW Australia with backing from international VCs.",
+                    "Developing optimised algorithms for image and sequence data processing."]
+    },
+    {
+      "name": "Goto.Health",
+      "position": "Advisor and acting Chief Data Officer (Part-Time)",
+      "url": "https://goto.health/",
+      "startDate": "2024-02-01",
+      "endDate": "Present",
+      "summary": "Goto.Health is a health tech startup guaranteeing real-time healthcare appointment availability price transparency for patients, whilst providing guaranteed payment for clinics. I advise across product, strategy, fundraising, and data science."
+    },
+    {
+      "name": "DogBase",
+      "position": "Contract Machine Learning Engineer (Part-Time)",
+      "url": "https://www.dogbase.co/",
+      "startDate": "2024-03-01",
+      "endDate": "Present",
+      "summary": "DogBase is a startup providing first-in-class software for training working dogs. I am building various models to improve dog training performance monitoring.",
+      "highlights": ["Built a state of the art breed prediction model over 100 breeds.",
+                    "Developed a multi-class classification model to predict dog emotion.",
+                    "Models productionised via Google Cloud Platform via a serverless approach."]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Bondi Surf Club",
+      "location": "Sydney, Australia",
+      "position": "Volunteer Surf Life Saver",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Monthly patrols down at Bondi Beach, keeping people out of harms way. On leave whilst overseas."
     }
   ],
   "education": [
