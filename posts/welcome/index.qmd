@@ -18,7 +18,7 @@ Here are some topics I've wanted to write about for a while and plan to include 
 * How good can AI get with only public knowledge?
 * Does scale confer robustness?
 * Techniques for mitigating noisy labels.
-* Want to get robust? Time to lose weights. (The impact of sparsity on learning under noise.)
+* Want to get robust? Time to lose weights. (The impact of sparsity on learning under noise)
 * Does AI in drug discovery actually work?
 * A walk through the shadow of the pharmaceutical valley of death.
 * Could statistics please everyone at the Olympics?
@@ -30,5 +30,6 @@ The first topic I plan to write about is
 I will be posting here and on my [LinkedIn](https://www.linkedin.com/in/alexander-daniel-mars/), so follow me there to stay up to date!
 
 Cheers,
+
 Alex
 
