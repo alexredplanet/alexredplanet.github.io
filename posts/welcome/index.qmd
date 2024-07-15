@@ -1,0 +1,34 @@
+---
+title: "Welcome"
+author: "Alex"
+date: "2024-07-15"
+categories: [news]
+image: "kvalvika_beach.jpg"
+---
+
+Welcome to my blog, I've finally decided to expose my thoughts and feelings to the world for better or for worse! 
+
+In creating this blog I don't have a specific theme in mind, instead I'll just write about whatever I find interesting. Mostly this will be tech (especially data science and AI), startups, and occasionally results of any projects / analysis I've worked on in my spare time.
+
+Here are some topics I've wanted to write about for a while and plan to include in the near future:
+
+* A walk through the giant leaps of AI - the main techniques that have hit the field in the past decade, from AlexNet back in 2012 through to the much-hyped Kolmogorov Arnold Networks - a lot has changed, and a lot hasn't!
+* Cognitive AI and taking inspiration from the brain to break new ground in artificial intelligence.
+* My take on Leopold Aschenbrenner's [Situational Awareness](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf) paper.
+* How good can AI get with only public knowledge?
+* Does scale confer robustness?
+* Techniques for mitigating noisy labels.
+* Want to get robust? Time to lose weights. (The impact of sparsity on learning under noise.)
+* Does AI in drug discovery actually work?
+* A walk through the shadow of the pharmaceutical valley of death.
+* Could statistics please everyone at the Olympics?
+* Revisiting the ideas in [For the Common Good](https://www.amazon.com/Common-Good-Redirecting-Environment-Sustainable/dp/0807047058) 30 years on.
+
+The first topic I plan to write about is
+**Reflections on my first startup, and what I would do differently**, where I want to examine my time as Founder and CEO of [RewiredBio](www.rewiredbio.com).
+
+I will be posting here and on my [LinkedIn](https://www.linkedin.com/in/alexander-daniel-mars/), so follow me there to stay up to date!
+
+Cheers,
+Alex
+

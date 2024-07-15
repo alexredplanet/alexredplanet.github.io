@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Thoughts on AI, startups, and other things"
+  navbar:
+    right:
+      - index.qmd
+      - about.qmd
+      - icon: github
+        href: https://github.com/alexredplanet
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alexander-daniel-mars/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
