@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Ex-Founder with experience across data science, molecular biology, research, strategy, and product development.\nI’m deeply passionate about leveraging technological advances to create products that benefit society. I care about the human experience: health, education, our relationships with each other, and our relationship to the environment. I’m interested in how these areas can be improved through technology, and I like the process of employing data science and AI to achieve this.\nI’m also passionate about business, innovation, and entrepreneurship. I’ve founded one company, and been on the founding team of two others so far. I’ve always been interested in a wide range of topics, and have been fortunate enough so far in my career to satiate this interest by taking on a variety of roles across biotechnology, data science, machine learning, and entrepreneurship. See my LinkedIn for more details on my education and experience.\nOne of the most important things in my life is objective truth, and that is what drove me into data science. To me, being a data scientist is a never ending pursuit of truth, an endless desire to make sense of the world, and to make the best decision possible with the information available.\nI’m always willing to chat and exchange ideas, so please feel free to reach out if you’d like to connect."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my blog, I’ve finally decided to expose my thoughts and feelings to the world for better or for worse!\nIn creating this blog I don’t have a specific theme in mind, instead I’ll just write about whatever I find interesting. Mostly this will be tech (especially data science and AI), startups, and occasionally results of any projects / analysis I’ve worked on in my spare time.\nHere are some topics I’ve wanted to write about for a while and plan to include in the near future:\n\nA walk through the giant leaps of AI - the main techniques that have hit the field in the past decade, from AlexNet back in 2012 through to the much-hyped Kolmogorov Arnold Networks - a lot has changed, and a lot hasn’t!\nCognitive AI and taking inspiration from the brain to break new ground in artificial intelligence.\nMy take on Leopold Aschenbrenner’s Situational Awareness paper.\nHow good can AI get with only public knowledge?\nDoes scale confer robustness?\nTechniques for mitigating noisy labels.\nWant to get robust? Time to lose weights. (The impact of sparsity on learning under noise.)\nDoes AI in drug discovery actually work?\nA walk through the shadow of the pharmaceutical valley of death.\nCould statistics please everyone at the Olympics?\nRevisiting the ideas in For the Common Good 30 years on.\n\nThe first topic I plan to write about is Reflections on my first startup, and what I would do differently, where I want to examine my time as Founder and CEO of RewiredBio.\nI will be posting here and on my LinkedIn, so follow me there to stay up to date!\nCheers, Alex"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 15, 2024\n\n\nAlex\n\n\n\n\n\n\nNo matching items"
+  }
+]
