@@ -6,7 +6,7 @@ categories: [news]
 image: "kvalvika_beach.jpg"
 ---
 
-Welcome to my blog, I've finally decided to expose my thoughts and feelings to the world for better or for worse! 
+Welcome to my blog, I've finally decided to expose my thoughts to the world for better or for worse! 
 
 In creating this blog I don't have a specific theme in mind, instead I'll just write about whatever I find interesting. Mostly this will be tech (especially data science and AI), startups, and occasionally results of any projects / analysis I've worked on in my spare time.
 
@@ -17,7 +17,7 @@ Here are some topics I've wanted to write about for a while and plan to include 
 * My take on Leopold Aschenbrenner's [Situational Awareness](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf) paper.
 * How good can AI get with only public knowledge?
 * Does scale confer robustness?
-* Techniques for mitigating noisy labels.
+* Techniques for mitigating noisy labels in supervised learning.
 * Want to get robust? Time to lose weights. (The impact of sparsity on learning under noise)
 * Does AI in drug discovery actually work?
 * A walk through the shadow of the pharmaceutical valley of death.
